@@ -22,15 +22,16 @@ Although it hasn't been long since we started, we were able to get the honor of 
   * The project team was selected jointly for first place during the validator selection round and is currently in operation.
 - Chainbase Network AVS : https://holesky.eigenlayer.xyz/operator/0x8e4488ca72E52C994bAE5CB7404B884a1205c67F
 - Story : https://testnet.story.explorers.guru/validator/77CA1381BC3F349563323A35CD69FCA47F39F502
+  * selected Validator Phase 1 Pass
+- VANA : https://moksha.vanascan.io/token/0x0812CF6C63FCc80a35F46dA510DDE69489C9d1Cd
 - Aleo Prover, Symphony Vlidator, eigenlayer, Nesa Validator(inactive) In addition, we are operating a node rather than an active one.
 
 ## Contact Information:
 * Website: https://zstake.xyz/ 
 * Services: https://service.zstake.xyz/
 * Github: https://github.com/z8000kr
-* Notion: https://bubbly-plain-24a.notion.site/Node-Install-Guide-6586273eadc24bf8966ac52733840134?pvs=4
+* Explorer: https://explorer.zstake.com/
+* Email: zstake.xyz@gmail.com 
 * Telegram: https://t.me/zstake_xyz
 * Twitter (X): https://x.com/zstake_xyz
-* Email: zstake.xyz@gmail.com 
-* Discord: z8000
-* Explorer: https://explorer.zstake.com/
+* Discord: .z8000
