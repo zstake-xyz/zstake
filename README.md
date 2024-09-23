@@ -3,7 +3,7 @@
 <img src="https://github.com/z8000kr/test/blob/main/Main_bg.png?raw=true" style="width: 100%; fill: white" />
 
  > Zstake Trusted Proof-of-Stake validator & Tendermint chain service provider. Since 2018, I have participated as an advisor for several DeFi projects and a developer for a Korean cryptocurrency exchange. I started running Zstake in 2023 with the idea of ​​focusing my passion on one project rather than participating in many projects. 
-Although it hasn't been long since we started, we were able to get the honor of being ranked first in the validator selection for some projects. Based on this experience, I will do my best as a validator at Story Protocol.
+Although it hasn't been long since we started, we were able to get the honor of being ranked first in the validator selection for some projects.
 
 ## Server Specifications:
 * Server 1 : CPU : AMD 7950x 32Core, RAM : 128Gb, Disk : 4TB NVME ssd, Network Bandwidth : 2.5GBit/s, ETC : Geforce RTX 4090, Location : South Korea
