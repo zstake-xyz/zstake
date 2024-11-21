@@ -21,8 +21,8 @@ Although it hasn't been long since we started, we were able to get the honor of 
 - 0gchain : https://explorer.zstake.xyz/0G_Chain%20-%20Newton/staking/0gvaloper1ne06x3qk0v2q5jhrznxf5ykzuee75tysywjt5w
   * The project team was selected jointly for first place during the validator selection round and is currently in operation.
 - Chainbase Network AVS : https://holesky.eigenlayer.xyz/operator/0x8e4488ca72E52C994bAE5CB7404B884a1205c67F
-- Story : https://testnet.story.explorers.guru/validator/77CA1381BC3F349563323A35CD69FCA47F39F502
-  * selected Validator Phase 1 Pass
+- Story : https://testnet.storyscan.app/validators/storyvaloper1spgujf9pjjtp8qrlvuucdd6cxfe7xs7858k7z5
+     - Selected Active validator 
 - VANA : https://moksha.vanascan.io/token/0x0812CF6C63FCc80a35F46dA510DDE69489C9d1Cd
 - Aleo Prover, Symphony Vlidator, eigenlayer, Nesa Validator(inactive) In addition, we are operating a node rather than an active one.
 
